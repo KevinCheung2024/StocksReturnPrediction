@@ -1,5 +1,5 @@
 # StocksReturnPrediction
-数据来源：@misc{stocks-return-prediction-test,
+@misc{stocks-return-prediction-test,
     author = {KaiQQQ},
     title = {Stocks Return Prediction Test},
     year = {2024},
