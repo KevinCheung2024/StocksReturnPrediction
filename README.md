@@ -1,2 +1,2 @@
-# A kaggle Project for cross-sectional stock returns prediction.
+# Stock Returns Prediction
 www.kaggle.com/competitions/stocks-return-prediction-test/overview/$citation
