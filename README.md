@@ -8,3 +8,5 @@ www.kaggle.com/competitions/stocks-return-prediction-test/overview/$citation
 2025-04-01 09:00 上传CatBoost模型：调参、模型训练和预测，得分0.06
 
 2025-04-02 09:00 改进数据处理方式，得分0.087
+
+2025-04-16 11:00 增加特征，改用多个树模型ensemble，得分0.096，详见workflow_3GBDT.ipynb
